@@ -1,0 +1,29 @@
+{
+  "name": "freetime.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZlataPavlova/freetime.github.io.git"
+  },
+  "keywords": [
+    "Ядфеф"
+  ],
+  "author": "Pavlova Zlata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZlataPavlova/freetime.github.io/issues"
+  },
+  "homepage": "https://github.com/ZlataPavlova/freetime.github.io#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
