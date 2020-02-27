@@ -1,0 +1,1 @@
+import './scr/pages/index.css';
